@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% if title %}
+    <title>{{title}} - Restfull</title>
+     {%else %}
+      <title>No name</title>
+      {%endif%}
+  </head>
+  <body>
+     <div>Home page :<a href="/index">Home</a></div>
+     <hr>
+  {%block content%} {%endblock%}
+  </body>
+</html>
