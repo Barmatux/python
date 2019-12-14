@@ -6,8 +6,16 @@
           <option name="url" value="https://github.com/Barmatux/python.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="kupi1kupi@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/PythonVitebsk/antontsyhankou.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Win10Pro\Documents\GitHub" />
+    <option name="cloneParentDir" value="C:\Users\Win10Pro\Documents" />
   </component>
 </application>
