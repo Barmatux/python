@@ -3,7 +3,8 @@
     <option name="gitlabServers">
       <list>
         <GitlabServer>
-          <option name="apiUrl" value="https://gitlab.com/PythonVitebsk/antontsyhankou" />
+          <option name="apiToken" value="8iS7eyh2xapqm-1XTbN5" />
+          <option name="apiUrl" value="https://gitlab.com/" />
           <option name="preferredConnection" value="HTTPS" />
           <option name="repositoryUrl" value="gitlab.com" />
         </GitlabServer>
